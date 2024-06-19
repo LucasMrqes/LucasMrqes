@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Lucas Marques 👋 </h1>
-<h3 align="center">Software Engineering Student @CentraleSupelec</h3>
+<h3 align="center">Site Reliability Engineer <a href"https://github.com/padok-team">@Padok</a></h3>
 
 <h3 align="left">Education:</h3>
  <p align="left">
