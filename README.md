@@ -14,7 +14,8 @@ I enjoy building software, infrastructures and software the empowers infrastruct
 ---
 
 ### 💡 Previously
-- 🛠️ Software Engineer at **Salesforce**
+- 🛠️ Software Engineer at [**Salesforce**](https://salesforce.com/)
+- 🛠️ Full stack developer at [**Padoa**](https://padoa.fr/)
 
 ---
 
