@@ -7,13 +7,14 @@
 ### 🚀 About Me
 I enjoy building software, infrastructures and software the empowers infrastructure builders. 
 
-- 💼 **Current Role**: Lead Site Reliability Engineer at [Theodo Cloud](https://github.com/padok-team)
+- 💼 **Current Role**: 🛠️ Site Reliability Engineer at [Padoa](https://github.com/padoa)
 - 🔧 **Main Projects**: Maintainer of [Burrito](https://github.com/padok-team/burrito), an open-source project aiming to be "Argo CD" for IaC.
 - 🌐 **Expertise**: Cloud Infrastructure | Kubernetes Ecosystem | Go | Observability | Distributed Systems 
 
 ---
 
 ### 💡 Previously
+- 🛠️ Lead Site Reliability Engineer at [Theodo Cloud](https://github.com/padok-team)
 - 🛠️ Software Engineer at [**Salesforce**](https://salesforce.com/)
 - 🛠️ Full stack developer at [**Padoa**](https://padoa.fr/)
 
